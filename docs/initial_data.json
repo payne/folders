@@ -1,0 +1,18 @@
+{
+  "folders" : {
+    "1" : {
+      "files": {
+        "1": "Stuff",
+        "2": "More Stuff"
+      },
+      "name" : "Downloads"
+    },
+    "2" : {
+      "files": {
+        "1": "2 Stuff",
+        "2": "2 More Stuff"
+      },
+      "name" : "Applications"
+    }
+  }
+}
