@@ -3,6 +3,8 @@
 
 <ol>
 {{#each model as |folder|}}
-  <li>{{folder.name}}</li>
+  <li>{{#link-to 'folders.folder' folder}}{{folder.name}}{{/link-to}}</li>
 {{/each}}
 </ol>
+
+{{outlet}}
